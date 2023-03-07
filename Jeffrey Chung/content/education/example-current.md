@@ -1,7 +1,7 @@
 ---
-institution: UBC
-title: MSc Science Computer Science
-year_started: 2014
+institution: University of Technology Sydney
+title: Bachelor of Science in Games Development
+year_started: 2020
 current: true
 ---
 

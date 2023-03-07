@@ -1,8 +1,8 @@
 ---
-institution: MIT
-title: BSc Science Computer Science
-year_started: 2014
-year_ended: 2016
+institution: Knox Grammar School
+title: High School Diploma
+year_started: 2012
+year_ended: 2019
 ---
 
-I studied things at MIT
+I completed my Higher School Certificate (HSC) at Knox Grammar School
