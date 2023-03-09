@@ -5,4 +5,4 @@ year_started: 2020
 current: true
 ---
 
-This is my current university
+This is my current university. Sub-major in data analytics.
