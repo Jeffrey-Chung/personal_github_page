@@ -4,11 +4,14 @@ theme: dimension
 email: Jeffreychungcl@gmail.com
 role: DevSecOps Intern | Production Assistant
 company: University of Technology Sydney (UTS) | Synergy Effects
-resume: false
 biography: |
    Aspiring developer passionate about creating, testing and maintaining tools for pipeline development. Related work experience in the Unity 
    Engine as a Production Assistant at Synergy Effects and using CI/CD and testing frameworks as a DevSecOps Intern at UTS.
+   <br>
+   <br>
+   Linkedin link backup: https://www.linkedin.com/in/jeffrey-chung-462448257/
+   <br>Itch.io: https://k1ngslayer.itch.io/
 examples: true
 social:
-  github: Jeffrey-Chung # Your username on github 
-  linkedin: jeffrey-chung-462448257 #Don't know why it loads instagram instead on linux mint
+  github: Jeffrey-Chung 
+  linkedin: jeffrey-chung-462448257 
