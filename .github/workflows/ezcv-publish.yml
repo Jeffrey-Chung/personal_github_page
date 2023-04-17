@@ -22,6 +22,9 @@ jobs:
         python -m pip install --upgrade setuptools wheel
         python -m pip install ezcv
 
+    - name: Add permissions for ezcv.exe file
+      run: chmod +x ./ezcv.exe
+
     - name: build html files
       run: |
         ./ezcv.exe build
