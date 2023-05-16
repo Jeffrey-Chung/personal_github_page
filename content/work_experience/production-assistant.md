@@ -2,8 +2,9 @@
 role: Production Assistant
 company: Synergy Effects
 month_started: November
-year_started: 2022 
-current: true 
+year_started: 2022
+month_ended: May
+year_ended: 2023  
 ---
 
 - Developed a GUI using Unity C# for their camera package to adjust and save camera settings for camera shots, similar to a TV production pipeline so that they can be set up much more efficiently for different Unity projects. Also wrote documentation and packaged all related files to export the package
