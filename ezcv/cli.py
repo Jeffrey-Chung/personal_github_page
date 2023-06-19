@@ -72,7 +72,7 @@ from ezcv.autoreload import start_server
 
 # Third party dependencies
 import yaml                      # Used to read and write yaml files
-#from colored import fg           # Used to highlight output with colors
+from colored import fg           # Used to highlight output with colors
 from docopt import docopt        # Used to complete argument parsing for the cli
 from PIL import Image            # Used to optimize and minify image files
 from css_html_js_minify import * # Used to optimize and minify html/css/js files
