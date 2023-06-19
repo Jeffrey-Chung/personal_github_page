@@ -21,7 +21,7 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install --upgrade setuptools wheel
         python -m pip install ezcv
-        python -m pip install --upgrade colour
+        python -m pip install --upgrade colored
 
     - name: build html files
       run: |
