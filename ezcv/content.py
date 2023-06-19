@@ -36,7 +36,7 @@ from typing import DefaultDict, List, Tuple, Type, Union # Used to provide accur
 # Third Party Dependencies
 import exifread            # Used to get metadata of image files
 import markdown            # Used to render and read markdown files
-from colored import fg     # Used to highlight output with colors, especially errors/warnings
+#from colored import fg     # Used to highlight output with colors, especially errors/warnings
 
 
 def get_content_directories() -> List[str]:
