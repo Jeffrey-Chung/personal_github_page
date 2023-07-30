@@ -2,7 +2,7 @@
 institution: University of Technology Sydney
 title: Bachelor of Science in Games Development
 year_started: 2020
-current: true
+year_ended: 2023
 ---
 
-This is my current university. Sub-major in data analytics.
+Completed all subjects for the degree. Sub-major in data analytics.
